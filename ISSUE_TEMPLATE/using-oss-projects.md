@@ -1,6 +1,6 @@
-Title: Using github.com/ORG/REPO
+Title: Using github.com/nu-peerpal/Peer-Grading-Hosting
 
-I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This issue will serve as a tracking issue for verification of this project:
+I would like to use github.com/nu-peerpal/Peer-Grading-Hosting as a dependency in the XYZ project. This issue will serve as a tracking issue for verification of this project:
 
 ## Project Health Check
 
@@ -12,4 +12,4 @@ I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This
 
 ## Internal Process
 
-- [ ] Notify the xyz team that you intend to use this project
+- [ ] Notify the maintainers team that you intend to use this project
