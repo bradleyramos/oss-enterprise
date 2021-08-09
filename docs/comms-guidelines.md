@@ -1,18 +1,18 @@
 # Availability
 
-We respond to newly opened issues within 48 hours during business hours. This is advertised in our README. It is the responsibility of the @Octocorp/maintainers team to stick to this response time.
+We respond to newly opened issues within 48 hours during business hours. This is advertised in our README. It is the responsibility of the @nupeerpal/maintainers team to stick to this response time.
 
 # Organization and repository structure
 
-All our repositories are housed within the Octocorp organization.
+All our repositories are housed within the NU PeerPal organization.
 
 # Maintainer responsibilities
 
 ### Identifying maintainers, contributors, and the general public
 
-When interacting in a repository owned by the Octocorp organization, you are speaking on behalf of the company.
+When interacting in a repository owned by the NU Peerpal organization, you are speaking on behalf of whole team.
 
-Employees are identified with an OWNER badge.
+Current team members are identified with an OWNER badge.
 
 <img width="774" alt="owner-badge" src="https://user-images.githubusercontent.com/16547949/33770589-38f46312-dbfc-11e7-97a8-43118a086467.png">
 
@@ -22,7 +22,7 @@ Community members with prior contributions will be identified with a CONTRIBUTOR
 
 ### Enforcing to the code of conduct
 
-Our [CODE OF CONDUCT](templates/code-of-conduct.md) outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
+Our [CODE OF CONDUCT](code-of-conduct.md) outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
 
 Violations are not tolerated, but there are always some gray areas.
 
